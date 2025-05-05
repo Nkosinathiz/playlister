@@ -1,6 +1,6 @@
 import React from 'react';
 import { usePlaylistContext } from '../contexts/PlaylistContext';
-import { useNavigate } from 'react-router-dom';
+import { useNavigate } from 'react-router';
 import { Clock, Music } from 'lucide-react';
 
 const History: React.FC = () => {

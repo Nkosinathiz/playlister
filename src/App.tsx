@@ -1,4 +1,4 @@
-import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+import { BrowserRouter as Router, Routes, Route } from 'react-router';
 import { PlaylistProvider } from './contexts/PlaylistContext';
 import { SpotifyProvider } from './contexts/SpotifyContext';
 import Header from './components/Header';

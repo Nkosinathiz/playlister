@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react';
-import { useParams, useNavigate } from 'react-router-dom';
+import { useParams, useNavigate } from 'react-router';
 import { usePlaylistContext } from '../contexts/PlaylistContext';
 import PlaylistDisplay from '../components/PlaylistDisplay';
 import { ChevronLeft } from 'lucide-react';

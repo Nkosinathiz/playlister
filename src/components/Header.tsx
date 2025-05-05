@@ -1,6 +1,6 @@
 import React from 'react';
 import { Music } from 'lucide-react';
-import { Link } from 'react-router-dom';
+import { Link } from 'react-router';
 
 const Header: React.FC = () => {
   return (
